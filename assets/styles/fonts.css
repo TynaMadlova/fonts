@@ -11,8 +11,8 @@
     src: url("../fonts/PT_Sans-Web-Italic.ttf") format('truetype');
 }
 @font-face {
-    font-family: 'PT Sans';
+    font-family: 'Lobster';
     font-style: normal;
     font-weight: 700;
-    src: url("../fonts/PT_Sans-Web-Bold.ttf") format('truetype');
+    src: url() format('truetype');
 }
